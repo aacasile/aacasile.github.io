@@ -1,0 +1,68 @@
+body{
+    background-color: #003366;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+
+h2{
+    color: red;
+    text-align: center;
+}
+
+.c{
+    color: red;
+}
+
+.d{
+    color: blueviolet;
+}
+
+.m{
+    color: yellow;
+}
+
+.e{
+    color: blue;
+}
+
+.f{
+    color: green;
+}
+
+.g{
+    color: blue;
+}
+
+.h{
+    color: red;
+}
+
+.i{
+    color: yellowgreen;
+}
+
+.a{
+    background-color: black;
+}
+
+.b{
+    background-color: red;
+}
+
+h4{
+    color: yellow;
+}
+
+h3{
+    color: yellowgreen;
+}
+
+.z{
+    text-align: left;
+}
+
+h1{
+    background-color: black;
+}
+
